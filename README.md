@@ -1,2 +1,2 @@
 # iglobal-demo
-this is demo for git &amp; git hub
+this is demo for git &amp; git hub .
